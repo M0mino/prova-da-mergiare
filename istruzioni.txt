@@ -1,0 +1,15 @@
+allora ho capito come si fa, utiliziamo la base di questo vechio progetto.
+
+ogni volta c'è da installare npm boostrap e angular matirial
+
+qui di seguiro ci sono i punti da fare:
+
+- fare un template del sito
+- mettere le immagine
+- capire come fare un database già esistente
+- capire come far girare tutto in una sola istruzione(credo che vogliano questo(non sicuro come obbiettivo))
+- conseganre entro il 6
+
+se l'obbiettivo è fatto segante con un "\" senno lasciate i "-"
+
+-Momo
